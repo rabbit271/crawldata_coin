@@ -1,2 +1,2 @@
 # crawldata_coin
-Automatically crawling data on a scheduled basis from CoinMarketCamp for three cryptocurrencies: BitCoin, Ethereum and BNB.
+My project involves automatically crawling data on a scheduled basis from CoinMarketCap for three cryptocurrencies: Bitcoin, Ethereum, and BNB. This project plays a crucial role in data analytics by collecting real-time information on the prices, trading volumes, and market fluctuations of these coins. The gathered data forms the basis for analyzing trends, predicting market movements, and making accurate investment decisions. Automating this process optimizes time and ensures timely and comprehensive data, enhancing the effectiveness of analysis and business strategies in the cryptocurrency domain.
